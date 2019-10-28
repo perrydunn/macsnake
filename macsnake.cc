@@ -23,7 +23,7 @@ using namespace std;
 int startx = 0;
 int starty = 0;
 
-char *choices[] = { 
+const char *choices[] = { 
 			"Play Game",
 			"Settings",
 			"Exit",
